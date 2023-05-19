@@ -10,7 +10,7 @@ Follow the steps up there.
 OR 
 
 PREREQUISITES
-1. Python – 3.x (we used Python 3.8.8 in this project)
+1. Python – 3.x
 
 2. OpenCV – 4.5
 Run “pip install opencv-python” to install OpenCV.
