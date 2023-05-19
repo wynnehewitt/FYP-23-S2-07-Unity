@@ -9,7 +9,19 @@ Follow the steps up there.
 
 OR 
 
-![image](https://github.com/wynnehewitt/FYP-23-S2-07-Unity/assets/28623033/a247dccb-59c9-4685-800b-ef84850c0250)
+PREREQUISITES
+1. Python – 3.x (we used Python 3.8.8 in this project)
+
+2. OpenCV – 4.5
+Run “pip install opencv-python” to install OpenCV.
+
+3. MediaPipe – 0.8.5
+Run “pip install mediapipe” to install MediaPipe.
+
+4. Tensorflow – 2.5.0
+Run “pip install tensorflow” to install the tensorflow module.
+
+5. Numpy – 1.19.3
 
 You should have those 1 and 5 installed if you can compile python scripts
 
