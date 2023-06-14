@@ -30,7 +30,7 @@ for 2, 3, 4: Run CMD.exe as administrator and type the commands there.
 After installing everything u need, download The game.zip from here. Extract and you will see 2 files.
 
 1) hand-gesture-recognition-code
-2) HandGestureGame.unitypackage
+2) ligma.unitypackage
 
 The first one is for launching ur webcam and doing the detection. (Most important is the handgesturedetection.py)
 The second one is the unity project compressed down so that it is easier to transfer to each other (The project is > 200 mb lmao)
