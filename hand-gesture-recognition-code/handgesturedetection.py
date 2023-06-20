@@ -88,14 +88,14 @@ while True:
         print("_"*10, "Hammer selected!", "_"*10)
         counter += 1
            
-    if(className == "call me" and counter == 0):
+    if(className == "thumbs down" and counter == 0):
         sock.sendto( ("Screwdriver").encode(), (UDP_IP, UDP_PORT) )
         print("_"*10, "Screwdriver selected!", "_"*10)
         counter += 1       
             
     if(className == "peace" and counter == 0):
-        sock.sendto( ("Plier").encode(), (UDP_IP, UDP_PORT) )
-        print("_"*10, "Plier selected!", "_"*10)
+        sock.sendto( ("Nailgun").encode(), (UDP_IP, UDP_PORT) )
+        print("_"*10, "Nailgun selected!", "_"*10)
         counter += 1
 
     if(className == "okay" and counter == 0):
