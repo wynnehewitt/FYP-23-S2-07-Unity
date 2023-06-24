@@ -79,6 +79,10 @@ while True:
     cv2.putText(frame, className, (10, 50), cv2.FONT_HERSHEY_SIMPLEX, 
                    1, (0,0,255), 2, cv2.LINE_AA)
 
+    cv2.namedWindow("Output", cv2.WINDOW_NORMAL)
+
+    cv2.resizeWindow("Output", 280, 190)
+
     # Show the final output
     cv2.imshow("Output", frame) 
     
