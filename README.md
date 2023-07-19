@@ -27,16 +27,16 @@ You should have those 1 and 5 installed if you can compile python scripts
 
 for 2, 3, 4: Run CMD.exe as administrator and type the commands there.
 
-After installing everything u need, download The game.zip from here. Extract and you will see 2 files.
+After installing everything u need, download
 
-1) hand-gesture-recognition-code
+1) hand.py
 2) ligma.unitypackage
+3) In the link above, download the original file from there (hand-gesture-recognition-code) file
 
-The first one is for launching ur webcam and doing the detection. (Most important is the handgesturedetection.py)
-The second one is the unity project compressed down so that it is easier to transfer to each other (The project is > 200 mb lmao)
+Replace TechVidvan-hand_gesture_detection.py with hand.py
 
-To test if your webcam / detection works, open the folder where the handgesturedetection.py is located and type "cmd" into the address bar then hit enter
-Your command prompt should open up and it will be in the same directory. Type "python handgesturedetection.py" and hit enter. The setup takes awhile but your
+To test if your webcam / detection works, open the folder where the hahand.py is located and type "cmd" into the address bar then hit enter
+Your command prompt should open up and it will be in the same directory. Type "python hand.py" and hit enter. The setup takes awhile but your
 webcam should launch and u can start testing out the various gestures that it can recognise. (Open gesture.names with notepad to see what is available)
 Press "Q" while in the webcam window to quit.
 
